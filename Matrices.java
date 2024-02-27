@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class Matrices {
     
-	//talkshit si joe
-	//pasukan ng bote yan
 	
     public static void main(String[] args) {
     	Scanner scnr = new Scanner(System.in);
